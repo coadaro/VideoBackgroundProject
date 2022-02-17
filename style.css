@@ -27,7 +27,7 @@ a {
 
 #main {
     position: relative;
-    /* VH (viewpoint height) determines the height of the element by setting it to a percentage of the viewport (note: VW is used for width) */
+    /* VH, (viewpoint height) determines the height of the element by setting it to a percentage of the viewport (note: VW is used for width) */
     height: 100vh;
     display: flex;
     flex-direction: column;
